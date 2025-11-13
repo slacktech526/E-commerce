@@ -1,4 +1,4 @@
-# Demo
+# E-commerce
 
 Here’s a clean and professional **README.md** you can use for your e-commerce website — it’s suitable for GitHub or documentation purposes. You can customize the project name, tech stack, and setup details easily:
 
